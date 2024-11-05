@@ -2,7 +2,7 @@
 
 ## Description of the projects
 
-These projects were completed during studying in the profession of Data Analyst.
+Some completed projects are collected here
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
