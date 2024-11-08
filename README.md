@@ -6,4 +6,4 @@ Some completed projects are collected here
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Analysis of the outflow of clients from the bank](https://github.com/emetsarina/Data-Analysis-projects/blob/main/Project1/Banks%20project.ipynb) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *Python, Pandas, Seaborn, Scipy.stats, Matplotlib* |
+| [Analysis of the outflow of clients from the bank](https://github.com/emetsarina/Data-Analysis-projects/blob/main/Project1/Banks%20project.ipynb) | Analysis of the churn of clients from the bank. The analysis shows which clients are leaving the bank, and also helps to make up segments of clients who tend to leave the bank.| *Python, Pandas, Seaborn, Scipy.stats, Matplotlib* |
