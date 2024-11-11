@@ -8,6 +8,7 @@ It is necessary to perform an analysis of the churn of clients from the bank. Th
 
 ## The purpose and tasks of the project
 **The purpose of the project:** create a portrait of clients who are prone to churn from the bank
+
 **Tasks:**
 - Perform data preprocessing
 - Perform an exploratory data analysis
