@@ -22,17 +22,17 @@ The dataset contains data about the clients of Metanprom Bank. The bank is locat
 
 **Columns:**
 
-`USERID` - user ID
-`score` - credit scoring points
-`city` - city
-`gender` - gender
-`age` - age
-`equity` - the number of ownership points
-`balance` - account balance
-`products` - the number of products that the customer uses
-`credit_card` - is there a credit card
-`last_activity` - active client
-`EST_SALARY` - estimated income of the client
+`USERID` - user ID  
+`score` - credit scoring points  
+`city` - city  
+`gender` - gender  
+`age` - age  
+`equity` - the number of ownership points  
+`balance` - account balance  
+`products` - the number of products that the customer uses  
+`credit_card` - is there a credit card  
+`last_activity` - active client  
+`EST_SALARY` - estimated income of the client  
 `churn` is a sign of outflow
 
 ## Tools
