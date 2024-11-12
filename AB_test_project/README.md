@@ -3,11 +3,11 @@
 ## Description of the project  
 We will conduct an analysis of a large online store. Together with the marketing department, was prepared a list of hypotheses to increase revenue.  
 
-## Research Objectives**  
+## Research Objectives  
 - Prioritize hypotheses  
 - Perform and analyze A/B test results  
 
-## Tasks Required for Analyzing A/B Test Results:**  
+## Tasks Required for Analyzing A/B Test Results:  
 - Plot cumulative revenue by groups.  
 - Plot cumulative average order value by groups.  
 - Plot the relative difference in cumulative average order value between Group B and Group A.  
